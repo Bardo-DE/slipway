@@ -69,4 +69,4 @@ unknown-git = "deny"
 allow-registry = ["https://github.com/rust-lang/crates.io-index"]
 # peephole: which program is calling the update service (the service only; the root programs never link it,
 # scripts/check-boundary.sh).
-allow-git = ["https://github.com/PoHsuanLai/peephole"]
+allow-git = ["https://github.com/Bardo-DE/peephole"]

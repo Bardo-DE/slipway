@@ -1,6 +1,6 @@
 [Unit]
 Description=Software Update
-Documentation=https://github.com/PoHsuanLai/slipway
+Documentation=https://github.com/Bardo-DE/slipway
 PartOf=graphical-session.target
 After=graphical-session.target
 

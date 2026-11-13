@@ -20,7 +20,7 @@
 -->
 <policyconfig>
   <vendor>Quire</vendor>
-  <vendor_url>https://github.com/PoHsuanLai/slipway</vendor_url>
+  <vendor_url>https://github.com/Bardo-DE/slipway</vendor_url>
   <action id="org.quire.slipway.apply">
     <description>Install a software update</description>
     <message>Installing a software update needs your permission.</message>
